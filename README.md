@@ -1,16 +1,36 @@
-### Hi there! I am Jeet Shah 👋
-![image](https://www.pixelstalk.net/wp-content/uploads/2016/10/Dark-Matter-Backgrounds.jpg)
-<br>
-<br>
-I am Jeet Shah, a motivated third-year undergraduate at Birla Institute of Technology and Science, Pilani. Proficient in Machine Learning and Deep Learning, I'm dedicated to using advanced technology to solve real-world challenges. My research focuses on using unsupervised machine learning for IoT device anomaly detection, contributing to the security of IoT ecosystems. With a strong team spirit and coordination skills, I excel in collaborative environments, valuing diverse perspectives. Competitive programming has sharpened my problem-solving abilities, aiding me in delivering robust solutions. A lifelong learner, I eagerly explore emerging trends in Machine Learning and IoT, seeking to contribute to innovative organizations.
-<br>
-<br>
-Here are some ideas to get you started:
+### Hey there, I'm Jeet Shah 👋
 
-- 👯 I’m looking to contribute to research involving machine learning and deep learning.
-- 💬 Ask me about Algorithms and IoT Securities. 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jeet-shah-b33267237/"> Linkedin Profile </a>
+> “I debug my life like I debug my code — with print statements and caffeine.” ☕💻
 
-<br>
+![Dark Banner](https://www.pixelstalk.net/wp-content/uploads/2016/10/Dark-Matter-Backgrounds.jpg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdetective007&theme=tokyonight)
+---
+
+### 🧠 Quick Peek @ Jeet Shah
+
+- 🚀 **Software Engineer** @ APTIV — building intelligent real-time systems for in-cabin monitoring in next-gen vehicles 🚗🧠  
+- 🎓 Graduated from **BITS Pilani** (2024) — B.E. in CS with a minor in Data Science  
+- 🧠 Passionate about **Edge AI**, **Embedded Systems**, and **AI at the intersection of hardware & real-world latency constraints**  
+- 💬 🛠️ I speak fluent: `Python`, `C/C++`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Linux`, `Bash`, `and even Naive Bayes with a side of sarcasm 😉`
+- 🛠️ Competitive programmer turned system builder — now solving real-world problems with machine learning & a hint of madness  
+- 🌱 Lifelong learner — continuously exploring emerging trends in AI, IoT Security & Embedded ML  
+
+---
+
+### 📜 Certifications
+
+- 🎯 Embedded Linux Audio Development – Bootlin
+---
+
+### 📫 Let's Connect
+
+<a href="mailto:jeetashah25@gmail.com"><img src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeet-shah-b33267237/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mrdetective007"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/mrdetective007/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdetective007&layout=compact&theme=tokyonight)
