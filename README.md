@@ -1,9 +1,6 @@
 ### Hey there, I'm Jeet Shah 👋
 
 > “I debug my life like I debug my code — with print statements and caffeine.” ☕💻
-
-![Dark Banner](https://www.pixelstalk.net/wp-content/uploads/2016/10/Dark-Matter-Backgrounds.jpg)
-
 ---
 
 ### 🧠 Quick Peek @ Jeet Shah
