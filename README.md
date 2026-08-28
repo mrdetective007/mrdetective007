@@ -1,16 +1,17 @@
 ### Hey there, I'm Jeet Shah 👋
 
-> “I debug my life like I debug my code — with print statements and caffeine.” ☕💻
+> “I debug my life like I debug my code - with print statements and caffeine.” ☕💻
 ---
 
 ### 🧠 Quick Peek @ Jeet Shah
 
-- 🚀 **Software Engineer** @ APTIV — building intelligent real-time systems for in-cabin monitoring in next-gen vehicles 🚗🧠  
-- 🎓 Graduated from **BITS Pilani** (2024) — B.E. in CS with a minor in Data Science  
-- 🧠 Passionate about **Edge AI**, **Embedded Systems**, and **AI at the intersection of hardware & real-world latency constraints**  
+- 🎓 Currently pursuing **Master of Computer Science** @ **The University of Sydney** specializing in DS & AI ~ Theory of Algorithms
+- 🚀 **Ex - Software Engineer** @ APTIV — building intelligent real-time systems for in-cabin monitoring in next-gen vehicles 🚗🧠  
+- 🎓 Graduated from **BITS Pilani** (2024) - B.E. in CS with a minor in Data Science  
+- 🧠 Passionate about **Teaching machines how to think!!**  
 - 💬 🛠️ I speak fluent: `Python`, `C/C++`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Linux`, `Bash`, `and even Naive Bayes with a side of sarcasm 😉`
-- 🛠️ Competitive programmer turned system builder — now solving real-world problems with machine learning & a hint of madness  
-- 🌱 Lifelong learner — continuously exploring emerging trends in AI, IoT Security & Embedded ML  
+- 🛠️ Competitive programmer turned system builder, now solving real-world problems with machine learning & a hint of madness  
+- 🌱 Lifelong learner - continuously exploring emerging trends in AI, ML and Mathematics. 
 
 ---
 
@@ -30,4 +31,4 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdetective007&layout=compact&theme=tokyonight)
+[![Jeet's's GitHub stats](https://github-stats-extended.vercel.app/api?username=mrdetective007)](https://github.com/stats-organization/github-stats-extended)
