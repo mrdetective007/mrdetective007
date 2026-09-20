@@ -6,7 +6,7 @@
 ### 🧠 Quick Peek @ Jeet Shah
 
 - 🎓 Currently pursuing **Master of Computer Science** @ **The University of Sydney** specializing in DS & AI ~ Theory of Algorithms
-- 🚀 **Ex - Software Engineer** @ APTIV — building intelligent real-time systems for in-cabin monitoring in next-gen vehicles 🚗🧠  
+- 🚀 **Ex - Software Engineer** @ APTIV - building intelligent real-time systems for in-cabin monitoring in next-gen vehicles 🚗🧠  
 - 🎓 Graduated from **BITS Pilani** (2024) - B.E. in CS with a minor in Data Science  
 - 🧠 Passionate about **Teaching machines how to think!!**  
 - 💬 🛠️ I speak fluent: `Python`, `C/C++`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Linux`, `Bash`, `and even Naive Bayes with a side of sarcasm 😉`
